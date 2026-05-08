@@ -5,4 +5,4 @@ Bu projenin detaylı açıklamaları, kurulum adımları ve teknik içeriği bir
 
 Proje hakkında tüm detaylara aşağıdaki bağlantıdan ulaşabilirsiniz:
 
-👉 [**Proje Detaylarını Görüntülemek İçin Tıklayın**](music_graph_app/TermProject_MusicGraph_210129036.pdf")
+👉 [**Proje Detaylarını Görüntülemek İçin Tıklayın**](./TermProject_MusicGraph_210129036.pdf)
